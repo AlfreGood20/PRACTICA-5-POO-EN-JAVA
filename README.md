@@ -1,3 +1,5 @@
+Todos los derechos a www.discoduroderoer.es y agradecimiento por el aporte de ajercicios.
+
 *Crearemos una supeclase llamada Electrodomestico con las siguientes características:
 
 Sus atributos son precio base, color, consumo energético (letras entre A y F) y peso. Indica que se podrán heredar.
