@@ -1,4 +1,4 @@
-## 👋Todos los derechos a www.discoduroderoer.es y agradecimiento por el aporte de ajercicios.
+## 👋Todos los derechos a www.discoduroderoer.es y agradecimiento por el aporte de este ejercicio.
 
 ### Crearemos una supeclase llamada Electrodomestico con las siguientes características:
 
