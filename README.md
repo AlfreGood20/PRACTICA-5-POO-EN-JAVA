@@ -1,35 +1,35 @@
-Todos los derechos a www.discoduroderoer.es y agradecimiento por el aporte de ajercicios.
+## 👋Todos los derechos a www.discoduroderoer.es y agradecimiento por el aporte de ajercicios.
 
-*Crearemos una supeclase llamada Electrodomestico con las siguientes características:
+### Crearemos una supeclase llamada Electrodomestico con las siguientes características:
 
-Sus atributos son precio base, color, consumo energético (letras entre A y F) y peso. Indica que se podrán heredar.
+- Sus atributos son precio base, color, consumo energético (letras entre A y F) y peso. Indica que se podrán heredar.
 
-Por defecto, el color sera blanco, el consumo energético sera F, el precioBase es de 100 € y el peso de 5 kg. Usa constantes para ello.
+- Por defecto, el color sera blanco, el consumo energético sera F, el precioBase es de 100 € y el peso de 5 kg. Usa constantes para ello.
 
-Los colores disponibles son blanco, negro, rojo, azul y gris. No importa si el nombre esta en mayúsculas o en minúsculas.
+- Los colores disponibles son blanco, negro, rojo, azul y gris. No importa si el nombre esta en mayúsculas o en minúsculas.
 
-Los constructores que se implementaran serán
-Un constructor por defecto.
+### Los constructores que se implementaran serán
+- Un constructor por defecto.
 
-Un constructor con el precio y peso. El resto por defecto.
+- Un constructor con el precio y peso. El resto por defecto.
 
-Un constructor con todos los atributos.
+- Un constructor con todos los atributos.
 
-Los métodos que implementara serán:
-Métodos get de todos los atributos.
+### Los métodos que implementara serán:
+- Métodos get de todos los atributos.
 
-comprobarConsumoEnergetico(char letra): comprueba que la letra es correcta, sino es correcta usara la letra por defecto. Se invocara al crear el objeto y no sera visible.
++ comprobarConsumoEnergetico(char letra): comprueba que la letra es correcta, sino es correcta usara la letra por defecto. Se invocara al crear el objeto y no sera visible.
 
-comprobarColor(String color): comprueba que el color es correcto, sino lo es usa el color por defecto. Se invocara al crear el objeto y no sera visible.
++ comprobarColor(String color): comprueba que el color es correcto, sino lo es usa el color por defecto. Se invocara al crear el objeto y no sera visible.
 
-precioFinal(): según el consumo energético, aumentara su precio, y según su tamaño, también. Esta es la lista de precios:
++ precioFinal(): según el consumo energético, aumentara su precio, y según su tamaño, también. Esta es la lista de precios:
 
 ![image](https://github.com/user-attachments/assets/636e52cf-7475-460f-90e4-d6a028ee7b43)
 
-Crearemos una subclase llamada Lavadora con las siguientes características:
-Su atributo es carga, ademas de los atributos heredados.
+### Crearemos una subclase llamada Lavadora con las siguientes características:
+- Su atributo es carga, ademas de los atributos heredados.
 
-Por defecto, la carga es de 5 kg. Usa una constante para ello.
+- Por defecto, la carga es de 5 kg. Usa una constante para ello.
 
 Los constructores que se implementaran serán:
 Un constructor por defecto.
